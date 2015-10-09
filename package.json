@@ -19,7 +19,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "http-server": "=0.8.0",
+    "http-server": "=0.8.5",
     "lodash": "=3.10.X"
   },
   "devDependencies": {
